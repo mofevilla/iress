@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToyRobot", "ToyRobot.vcxproj", "{DCE6A3AF-F758-4BDA-9E22-A061E59724FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToyRobotTest", "ToyRobotTest\ToyRobotTest.vcxproj", "{7D884945-07F7-4AC2-9DB6-3454323A8066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6A3AF-F758-4BDA-9E22-A061E59724FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCE6A3AF-F758-4BDA-9E22-A061E59724FC}.Debug|Win32.Build.0 = Debug|Win32
+		{DCE6A3AF-F758-4BDA-9E22-A061E59724FC}.Release|Win32.ActiveCfg = Release|Win32
+		{DCE6A3AF-F758-4BDA-9E22-A061E59724FC}.Release|Win32.Build.0 = Release|Win32
+		{7D884945-07F7-4AC2-9DB6-3454323A8066}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D884945-07F7-4AC2-9DB6-3454323A8066}.Debug|Win32.Build.0 = Debug|Win32
+		{7D884945-07F7-4AC2-9DB6-3454323A8066}.Release|Win32.ActiveCfg = Release|Win32
+		{7D884945-07F7-4AC2-9DB6-3454323A8066}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿Build started 14/08/2024 1:02:35 am.
+     1>Project "C:\Users\Administrator\Desktop\ToyRobot\ToyRobotTest\ToyRobotTest.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\ToyRobotTest.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\ToyRobotTest.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt toyrobottest.cpp
+         toyrobottest.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\ToyRobot\Release\ToyRobotTest.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\ToyRobot\Release\ToyRobotTest.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\ToyRobot\Release\ToyRobotTest.lib" /MACHINE:X86 /SAFESEH /DLL Release\stdafx.obj
+         Release\toyrobottest.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+            Creating library C:\Users\Administrator\Desktop\ToyRobot\Release\ToyRobotTest.lib and object C:\Users\Administrator\Desktop\ToyRobot\Release\ToyRobotTest.exp
+         Generating code
+         Finished generating code
+         ToyRobotTest.vcxproj -> C:\Users\Administrator\Desktop\ToyRobot\Release\ToyRobotTest.dll
+     1>Done Building Project "C:\Users\Administrator\Desktop\ToyRobot\ToyRobotTest\ToyRobotTest.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.60
